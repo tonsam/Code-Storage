@@ -1,3 +1,9 @@
+/* 
+  Assignment from Codecademy for Javascript course.
+  Basic rock-paper-scissors program
+  Written by David Kornish on the fine day of 1/15/2019
+*/
+
 const getUserChoice = userInput => {
   userInput.toLowerCase()
   if (userInput != 'rock' && userInput != 'paper' && userInput != 'scissors') {
@@ -82,5 +88,6 @@ const playGame = (choice) => {
   
 }
 
-// pick rock, paper, or scissors here
+// pick rock, paper, or scissors here and play
+// Yeah I could add a section for real user input instead of hard-coding it but what fun would that be?
 playGame('scissors')
