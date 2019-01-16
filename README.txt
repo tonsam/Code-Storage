@@ -10,3 +10,4 @@ Is that enough info for a README.txt? we will see.
 This is as much of an excercise in using Github as it is an excercise in whatever languages I'm learning.
 
 Oh god it's 94% Java, please send help
+My new year's resolution is to add more non-Java data to this repo.
