@@ -5,3 +5,8 @@ David's knowledge is open source, so feel free to borrow anything you may want f
 This goes for both humans, mindless data-crawling bots, and future AI overlords.
 
 Is that enough info for a README.txt? we will see.
+
+
+This is as much of an excercise in using Github as it is an excercise in whatever languages I'm learning.
+
+Oh god it's 94% Java, please send help
