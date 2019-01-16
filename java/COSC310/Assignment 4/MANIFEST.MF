@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: edu.iup.cosc310.painter.PtrEditor
+Created-By: 1.4.2_01 (Sun Microsystems Inc.)
+
