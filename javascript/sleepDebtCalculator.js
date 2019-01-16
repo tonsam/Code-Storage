@@ -44,7 +44,7 @@ const getSleepHours = day => {
 
 // get the hours you slept in a given week.
 // basically calls getSleepHours for each day of week.
-const getActualSleepHours = nothing => {
+const getActualSleepHours = () => {
   let totalHours = 0
   totalHours += getSleepHours('monday')
   totalHours += getSleepHours('tuesday')
@@ -56,12 +56,12 @@ const getActualSleepHours = nothing => {
   return totalHours
 }
 
-const getIdealSleepHours = nothing => {
+const getIdealSleepHours = () => {
   let idealHours = 8
  	return idealHours*7
 }
 
-const calculateSleepDebt = nothing => {
+const calculateSleepDebt = () => {
   let actualSleep = getActualSleepHours()
   let idealSleep = getIdealSleepHours()
   
