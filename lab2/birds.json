@@ -1,0 +1,14 @@
+
+
+{
+  "birds": [
+           {
+              "name":"pigeon",
+              "color":"white"	
+           },
+           {
+              "name":"chicken",
+              "color":"brown"	
+           }
+ ]
+}
