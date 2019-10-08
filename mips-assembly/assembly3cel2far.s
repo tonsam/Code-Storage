@@ -1,6 +1,6 @@
 # I love comments
 # This program converts Celcius to Fahrenheit
-# Written by David Kornish, aka the snake of the festival
+# Written by David Kornish
 # Today is 9/20/2018. Pretty nice.
 
 .data #let processor know we will be submitting data to program now
