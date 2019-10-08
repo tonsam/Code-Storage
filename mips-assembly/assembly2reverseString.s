@@ -1,6 +1,6 @@
 # I love comments
 # This one will reverse a string.
-# Written by David Kornish, aka the snake of the festival
+# Written by David Kornish
 # Today is 9/13/18. Pretty nice.
 
 .data
